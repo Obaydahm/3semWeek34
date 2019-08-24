@@ -15,4 +15,5 @@ Studypoint assignment
 [Link to solution](https://github.com/Obaydahm/3semWeek34/tree/master/05_friday/SP1)
 
 [DigitalOcean preview(all)](http://206.81.29.122:8080/sp1/api/bc/all)
+
 [DigitalOcean preview(findById)](http://206.81.29.122:8080/sp1/api/bc/1)
